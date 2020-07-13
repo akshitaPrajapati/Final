@@ -155,6 +155,28 @@ p {
   height: 5px;
   margin-bottom: 10px !important; }
 
+.jumbotron {
+			color: #2c3e50;
+		}
+
+		.a {
+			color:blue;
+		}
+
+		div.card {
+			
+			box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+			text-align: center;
+			height: 260px;
+			padding: 7px;
+		}
+
+		
+
+	.card-title{ font-weight:600;  color:#ff6600;}	
+.service{ text-align:center; color:#ff6600; font-weight:600;}
+.title{ text-align:center;}
+
 .section-title .title {
   font-size: 38px;
   font-weight: 700;
